@@ -21,7 +21,7 @@
     "@xterm/addon-webgl": "0.18.0-beta.12",
     "@xterm/headless": "5.5.0-beta.12",
     "@xterm/xterm": "5.5.0-beta.12",
-    "cookie": "^0.4.0",
+    "cookie": "^0.7.0",
     "graceful-fs": "4.2.11",
     "http-proxy-agent": "^7.0.0",
     "https-proxy-agent": "^7.0.2",
